@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <item
+          android:title="Doctor"
+          android:icon="@drawable/doctor"
+          android:id="@+id/navegation_doctor"></item>
+
+    <item
+            android:title="Clinic"
+          android:icon="@drawable/hospital"
+          android:id="@+id/navigation_clinic"></item>
+
+    <item android:title="Favorite"
+          android:icon="@drawable/list"
+          android:id="@+id/navigation_favorit"></item>
+</menu>
